@@ -1,8 +1,8 @@
 {
-  "name": "Parse Server Example",
-  "description": "An example Parse API server using the parse-server module",
-  "repository": "https://github.com/ParsePlatform/parse-server-example",
-  "logo": "https://avatars0.githubusercontent.com/u/1294580?v=3&s=200",
+  "name": "Boss",
+  "description": "Parse API server for Coin Flip Games",
+  "repository": "https://github.com/coinflipgamesllc/boss",
+  "logo": "https://avatars0.githubusercontent.com/u/15695242?v=3&s=200",
   "keywords": ["node", "express", "parse"],
   "env": {
     "PARSE_MOUNT": {
